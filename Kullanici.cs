@@ -8,5 +8,6 @@ namespace NETCoreMVCBlog.Models
         public string KullaniciAdi { get; set; }
         public DateTime KayitTarihi { get; set; }
         public int DogumTarihi { get; set; }
+        public int KullaniciCinsiyeti
     }
 }
