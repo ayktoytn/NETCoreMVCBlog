@@ -8,5 +8,6 @@ namespace NETCoreMVCBlog.Models
         public string Baslik { get; set; }
         public string Icerik { get; set; }
         public DateTime Tarih { get; set; }
+        public string GonderiSahibi { get; set; }
     }
 }
